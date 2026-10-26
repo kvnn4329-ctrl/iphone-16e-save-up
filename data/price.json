@@ -4,7 +4,7 @@
   "currency": "GBP",
   "status": "error",
   "price": 419.0,
-  "checkedAt": "2026-10-26T06:12:39Z",
+  "checkedAt": "2026-10-26T13:02:26Z",
   "lastSuccessAt": null,
   "error": "HTTPError: HTTP Error 403: Forbidden",
   "history": [
